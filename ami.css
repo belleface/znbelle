@@ -1,0 +1,29 @@
+
+
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1 {
+    border-style: dotted; 
+    text-decoration: underline overline;
+    color: orangered;
+}
+
+.bg-primary .bg-success {
+  color: lime;
+}
+
+body {
+  background-color: yellow;
+}
+
+h5 {
+  color: lime;
+  text-decoration: underline;
+}
+body {
+  background-image: url("de.jpg") no-repeat cover;
+}
+

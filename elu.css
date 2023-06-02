@@ -1,0 +1,28 @@
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: monospace;
+}
+
+h1 {
+    color: yellow;
+    text-decoration: solid underline overline;
+}
+
+h2 {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+h3 {
+    color: yellow;
+    text-decoration: underline;
+}
+
+h4{
+   color: chocolate; 
+}
+
+
+

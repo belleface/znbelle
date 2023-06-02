@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+font {
+    border: solid dotted;
+}
+
+h1 {color: blue;
+}
+
+h3 {color: crimson;
+}
+
+tr {
+    color: rgb(0, 153, 255);
+}
